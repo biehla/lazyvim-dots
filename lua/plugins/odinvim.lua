@@ -1,0 +1,5 @@
+return {
+  {
+    "Tetralux/odin.vim",
+  },
+}
